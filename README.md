@@ -27,7 +27,7 @@ Open Source projects:
 - [Société Générale's ArchUnit Build Plugin Core Project](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
-- [OpenSource Cameroon's jsGenerator](https://github.com/opensourcecameroon/jsGenerator/commits?author=FanJups)
+- [Open Source Cameroon's jsGenerator](https://github.com/opensourcecameroon/jsGenerator/commits?author=FanJups)
 
 
 Contributing to Open Source projects leads me to be a GitHub Artic Code Vault Contributor. The goal of [GitHub Archive Program](https://archiveprogram.github.com/) is to preserve open source software for future generations.
