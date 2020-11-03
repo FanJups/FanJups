@@ -34,6 +34,8 @@ Contributing to Open Source projects leads me to be a GitHub Artic Code Vault Co
 
 I just wrote my first article [Applying CI/CD to Java Apps Using Spring Boot](https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot)-> [GitHub repository](https://github.com/FanJups/cicd-applied-to-spring-boot-java-app). It's a way to thank people who helped me to become the developer I am today and share my experiences.
 
+I'm preparing for the Google Cloud Associate Cloud Engineer Certification by getting [Google Cloud Badges](https://google.qwiklabs.com/public_profiles/2e48ffde-3e13-46d5-b825-14bbb38510a3).
+
 Please, if you have a job opportunity abroad, just let me know. I am ready to relocate.🛫✈🛬
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
