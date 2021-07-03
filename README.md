@@ -36,7 +36,5 @@ I just wrote my first article [Applying CI/CD to Java Apps Using Spring Boot](ht
 
 I'm preparing for Oracle Certified Professional Java SE 11 Developer and Google Cloud Associate Cloud Engineer Certifications by getting [Google Cloud Skill Badges](https://google.qwiklabs.com/public_profiles/2e48ffde-3e13-46d5-b825-14bbb38510a3).
 
-Please, if you have a job opportunity abroad, just let me know. I am ready to relocate.🛫✈🛬
-
 Follow me on [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
 
