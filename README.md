@@ -38,3 +38,5 @@ I'm preparing for Oracle Certified Professional Java SE 11 Developer and Google 
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
 
+![](https://hit.yhype.me/github/profile?user_id=25267726)
+
