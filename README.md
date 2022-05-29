@@ -25,6 +25,7 @@ Open Source projects:
 
 - [Google's Mug Project ](https://github.com/google/mug/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core Project](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
+- [Société Générale's ArchUnit Build Maven Plugin Project](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
 - [Open Source Society Cameroon's jsGenerator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
