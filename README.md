@@ -23,7 +23,7 @@ I'm a Java Software Engineer working on Open Source and Non Open Source projects
 
 Open Source projects:
 
-- [Open Source Society Cameroon's jsGenerator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
+- [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
 - [Google's Mug Project ](https://github.com/google/mug/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core Project](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Maven Plugin Project](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
