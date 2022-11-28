@@ -21,7 +21,7 @@ As an app, I regularly update myself.
 
 I'm a Java Software Engineer working on Open Source and Non Open Source projects.
 
-Open Source projects:
+Some commits on Open Source projects:
 
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
 - [Google's Mug Project ](https://github.com/google/mug/commits?author=FanJups)
