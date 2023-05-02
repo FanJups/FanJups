@@ -19,8 +19,6 @@ I am a passionate and fanatic learner.
 
 As an app, I regularly update myself.
 
-I'm a Java Software Engineer working on Open Source and Non Open Source projects.
-
 Some commits on Open Source projects:
 
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
