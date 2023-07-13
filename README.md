@@ -22,9 +22,10 @@ As an app, I regularly update myself.
 Some commits on Open Source projects:
 
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
-- [Google's Mug Project ](https://github.com/google/mug/commits?author=FanJups)
-- [Société Générale's ArchUnit Build Plugin Core Project](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
-- [Société Générale's ArchUnit Build Maven Plugin Project](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
+- [Google's Mug](https://github.com/google/mug/commits?author=FanJups)
+- [Société Générale's ArchUnit Build Plugin Core](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
+- [Société Générale's ArchUnit Build Maven Plugin](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
+- [Mercedes-Benz's SecHub](https://github.com/mercedes-benz/sechub/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
 
@@ -34,7 +35,7 @@ Contributing to Open Source projects leads me to be a GitHub Artic Code Vault Co
 On November 2019, I wrote my first article [Applying CI/CD to Java Apps Using Spring Boot](https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot)-> [GitHub repository](https://github.com/FanJups/cicd-applied-to-spring-boot-java-app). It's a way to thank people who helped me to become the developer I am today and share my experiences.
 
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
+Follow me on [Dikalo](https://www.dklo.co/profile/fanjups) & [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
 
 ![](https://hit.yhype.me/github/profile?user_id=25267726)
 
