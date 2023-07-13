@@ -38,4 +38,3 @@ On November 2019, I wrote my first article [Applying CI/CD to Java Apps Using Sp
 Follow me on [Dikalo](https://www.dklo.co/profile/fanjups) & [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
 
 ![](https://hit.yhype.me/github/profile?user_id=25267726)
-
