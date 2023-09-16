@@ -24,7 +24,7 @@ Some commits on Open Source projects:
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
 - [Google's Mug](https://github.com/google/mug/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
-- [Société Générale's ArchUnit Build Maven Plugin](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
+- [Jakarta EE Data](https://github.com/jakartaee/data/pull/213)
 - [Mercedes-Benz's SecHub](https://github.com/mercedes-benz/sechub/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
