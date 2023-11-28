@@ -19,12 +19,13 @@ I am a passionate and fanatic learner.
 
 As an app, I regularly update myself.
 
-Some commits on Open Source projects:
+Some contributions :
 
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
 - [Google's Mug](https://github.com/google/mug/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
 - [Jakarta EE Data](https://github.com/jakartaee/data/pull/213)
+- [JUnit 5](https://github.com/junit-team/junit5/issues/3569)
 - [Mercedes-Benz's SecHub](https://github.com/mercedes-benz/sechub/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
