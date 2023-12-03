@@ -23,6 +23,7 @@ Some contributions :
 
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
 - [Google's Mug](https://github.com/google/mug/commits?author=FanJups)
+- [Société Générale's ArchUnit Maven Plugin](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
 - [Jakarta EE Data](https://github.com/jakartaee/data/pull/213)
 - [JUnit 5](https://github.com/junit-team/junit5/issues/3569)
