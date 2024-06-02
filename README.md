@@ -39,6 +39,8 @@ Contributing to Open Source projects leads me to be a GitHub Artic Code Vault Co
 
 On November 2019, I wrote my first article [Applying CI/CD to Java Apps Using Spring Boot](https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot) -> [GitHub repository](https://github.com/FanJups/cicd-applied-to-spring-boot-java-app). It's a way to thank people who helped me to become the developer I am today and share my experiences.
 
+[I started my speaking journey in 2024 as you can see here.](https://github.com/FanJups/public-speaking)
+
 
 Follow me on [Dikalo](https://www.dklo.co/profile/fanjups) & [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
 
