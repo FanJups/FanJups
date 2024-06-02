@@ -19,6 +19,8 @@ I am a passionate and fanatic learner.
 
 As an app, I regularly update myself.
 
+I started contributing to Open Source in May 2019, [have a look to my 1st Pull Request 😊 !](https://github.com/societe-generale/arch-unit-maven-plugin/pull/5)
+
 Some contributions :
 
 - [Open Source Society Cameroon's Js Generator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
