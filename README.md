@@ -34,6 +34,13 @@ Some contributions :
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
 
+I also want to highlight some contributions that were not merged but I didn't give up.
+
+- [adyen-java-api-library](https://github.com/Adyen/adyen-java-api-library/pull/281)
+- [Trivago's Cluecumber](https://github.com/trivago/cluecumber/issues/219)
+- [facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk/pull/268)
+- [Google's Guava](https://github.com/google/guava/pull/3749)
+
 
 Contributing to Open Source projects leads me to be a GitHub Artic Code Vault Contributor. The goal of [GitHub Archive Program](https://archiveprogram.github.com/) is to preserve open source software for future generations.
 
