@@ -27,7 +27,7 @@ Some contributions :
 - [Google's Mug](https://github.com/google/mug/commits?author=FanJups)
 - [Société Générale's ArchUnit Maven Plugin](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
-- [Jakarta EE Data](https://github.com/jakartaee/data/pull/213), [JUnit 5](https://github.com/junit-team/junit5/issues/3569) & [JUnit Pioneer](https://github.com/junit-pioneer/junit-pioneer/pull/819) related to a new JUnit 5 Displayname Generator
+- [Jakarta EE Data](https://github.com/jakartaee/data/pull/213), [JUnit 5](https://github.com/junit-team/junit5/issues/3569) & [JUnit Pioneer](https://github.com/junit-pioneer/junit-pioneer/commits?author=FanJups) related to a new JUnit 5 Displayname Generator
 - [Mercedes-Benz's SecHub](https://github.com/mercedes-benz/sechub/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
