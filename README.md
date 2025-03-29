@@ -49,7 +49,7 @@ On November 2019, I wrote my first article [Applying CI/CD to Java Apps Using Sp
 
 Follow me on [Sessionize](https://sessionize.com/fanon-jupkwo) & [Dikalo](https://www.dklo.co/profile/fanjups) & [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
 
-![Spring Certified Professional 2023](badges/spring-certified-professional-2023.png)
+[![Spring Certified Professional 2023](badges/spring-certified-professional-2023.png)](https://www.credly.com/badges/c7ff4907-6301-482c-b029-ab1bc8bbd7d7/public_url)
 
 ![](https://hit.yhype.me/github/profile?user_id=25267726)
 
